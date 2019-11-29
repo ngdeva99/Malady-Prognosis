@@ -14,23 +14,6 @@ import pandas as pd
 import numpy as np
 
 
-"""
-X = [
-    [0, 0],
-    [0, 1],
-    [1, 0],
-    [1, 1]
-]
- 
-Y = [
-    [0],  # Desired output for inputs 0, 0
-    [1],  # Desired output for inputs 0, 1
-    [1],  # Desired output for inputs 1, 0
-    [0]   # Desired output for inputs 1, 1
-]
-"""
-
-
 
 #==========
 df = pd.read_csv('pee.csv')
