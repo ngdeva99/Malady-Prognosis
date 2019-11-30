@@ -1,0 +1,2 @@
+    implementation 'org.tensorflow:tensorflow-android:1.7.0'
+    implementation 'org.tensorflow:tensorflow-lite:+'
